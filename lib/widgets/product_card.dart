@@ -25,7 +25,7 @@ class ProductCard extends StatelessWidget {
           children: [
             CircleAvatar(
               radius: 32,
-              backgroundColor: Colors.blue.shade50,
+              backgroundColor: const Color.fromARGB(255, 223, 240, 252),
               child: Icon(
                 product.icon,
                 size: 35,
