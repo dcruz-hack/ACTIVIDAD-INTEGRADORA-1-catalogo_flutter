@@ -135,7 +135,7 @@ class _DetailScreenState extends State<DetailScreen> {
               style: ElevatedButton.styleFrom(
                 padding: const EdgeInsets.all(16),
                 backgroundColor: Colors.blue.shade800,
-                foregroundColor: Colors.white,
+                foregroundColor: const Color.fromARGB(255, 252, 250, 250),
               ),
             ),
             const SizedBox(height: 12),
