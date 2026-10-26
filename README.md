@@ -2,7 +2,8 @@
 
 ## Descripción
 
-Aplicación móvil desarrollada con Flutter para mostrar un catálogo de productos tecnológicos. Permite consultar información detallada de cada producto y navegar entre diferentes pantallas.
+Aplicación móvil desarrollada con Flutter para mostrar un catálogo de productos tecnológicos. 
+Permite consultar información detallada de cada producto y navegar entre diferentes pantallas.
 
 ## Objetivo
 

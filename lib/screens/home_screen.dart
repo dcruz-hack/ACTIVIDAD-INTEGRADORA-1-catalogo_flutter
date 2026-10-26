@@ -27,7 +27,7 @@ class HomeScreen extends StatelessWidget {
       id: 3,
       title: 'Monitor Monster Gamer',
       description: 'Monitor 24" 144 hz.',
-      price: 185.00,
+      price: 180.00,
       image: '',
       icon: Icons.desktop_windows,
     ),
