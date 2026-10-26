@@ -55,4 +55,4 @@ Deivid Cruz
 
 El proyecto utiliza Git para registrar los cambios de desarrollo y GitHub para alojar el repositorio.
 
-BETA 1
+PROYECTO BETA 1 
